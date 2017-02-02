@@ -24,6 +24,10 @@ class ArticlesController < ApplicationController
     end
   end
 
+  def edit
+  end
+
+
   private
 
   def find_article
